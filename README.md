@@ -16,6 +16,9 @@ Works with Minecraft: PE 0.11.0 alpha build 6 or higher.
      MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
      GNU General Public License for more details.
 
+## Testing...
+
+**This Plugin Not Finished, In The Testing...**
 
 ## Commands
 
